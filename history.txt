@@ -1,0 +1,63 @@
+
+administrator@administrator-Lenovo-V130-14IKB:~$ history
+    1  cd /
+    2  clear
+    3  cd /
+    4  cd home
+    5  cd administrator
+    6  cd Desktop
+    7  history
+    8  cd /
+    9  history
+   10  clear
+   11  cd /
+   12  cd home
+   13  cd administrator
+   14  mkdir crm_system
+   15  cd crm_system
+   16  mkdir sales
+   17  mkdir support
+   18  mkdir markting
+   19  mkdir admin
+   20   cd sales
+   21  clear
+   22  cd /
+   23  cd home
+   24  cd administrator
+   25  cd crm_system
+   26  cd sales
+   27  clear
+   28  touch interaction_day_1.txt
+   29  mv interaction_day_1.txt admin
+   30  cd ..
+   31  support
+   32  cd support
+   33  touch ticket_123.txt
+   34  touch ticket_123.txt
+   35  ls
+   36  touch ticket_123.txt
+   37  cd ..
+   38  cd ..
+   39  cd project
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  cd ..
+   44  cd project
+   45  crm_system
+   46  cd crm_system
+   47  cd support
+   48  touch ticket_123.txt
+   49  rm -r ticket_resolved_123.txt ticket_123.txt
+   50  mv ticket_123.txt ticket_resolved_123.txt
+   51  touch ticket-123.txt
+   52  mv ticket_123.txt ticket_resolved_123.txt
+   53  mv ticket-123.txt ticket_resolved_123.txt
+   54  ls 
+   55  cd ..
+   56  ls
+   57  mkdir config.json
+   58  history
+administrator@administrator-Lenovo-V130-14IKB:~$ 
+
+
